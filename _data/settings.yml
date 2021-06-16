@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'apham'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-91332049-1'
+google-ID: ''
 
 menu: 
   - name: Featured Projects
@@ -23,11 +23,8 @@ menu:
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
+        link: http://github.com/KingZhaoTPG
       - name: LinkedIn
         icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
-      - name: Twitter
-        icon: twitter
-        link: https://twitter.com/koint
+        link: https://www.linkedin.com/in/shengbin-zhao-661837164
     
